@@ -13,13 +13,15 @@ Tic-tac-toe adalah permainan kertas dan pensil untuk dua pemain, X dan O, yang b
 | 140810200058  | Amariel Danendra Dagna |
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   -  Short changes 1
-   - Short changes 2
+- **[Sprint Planning](changelog/sprint-planning.md) - (23/11/2021)** 
+   - Perencanaan pembuatan game
+   - Perencanaan changelog
+   - Penambahan challenge guideline
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 1](changelog/sprint-1.md) - (17/11/2021 - 23/11/2021)** 
+   - Inisiasi Project 
+   - Implementasi OOP
+   - Implementasi UI
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
    - Short changes 1
