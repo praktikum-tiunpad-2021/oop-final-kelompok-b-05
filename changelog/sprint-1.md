@@ -17,8 +17,9 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | Preparing the x | Jane Doe | DONE |
-| 1.2 | Make the x | John Doe | FAILED |
+| 1.1 | Inisiasi Project    | Aulia,Nawang,Ola | DONE    |
+| 1.2 | Implementasi OOP    | Aulia,Nawang,Ola | PROCESS |
+| 1.3 | Implementasi UI     | Aulia,Nawang,Ola | PROCESS |
 
 ## Retrospective 
 
@@ -27,5 +28,6 @@ Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian t
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 2.1 | Implementasi Gameplay (OOP + UI)  | Aulia,Nawang,Ola |
+| 2.2 | Implementasi Menu                 | Aulia,Nawang,Ola | 
+| 2.3 | Implementasi Reset Button & Main  | Aulia,Nawang,Ola |
