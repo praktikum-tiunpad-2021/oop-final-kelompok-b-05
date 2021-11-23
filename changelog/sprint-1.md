@@ -28,5 +28,6 @@ Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian t
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 2.1 | Implementasi Gameplay (OOP + UI)  | Aulia,Nawang,Ola |
+| 2.2 | Implementasi Menu                 | Aulia,Nawang,Ola | 
+| 2.3 | Implementasi Reset Button & Main  | Aulia,Nawang,Ola |
