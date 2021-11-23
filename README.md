@@ -23,13 +23,15 @@ Tic-tac-toe adalah permainan kertas dan pensil untuk dua pemain, X dan O, yang b
    - Implementasi OOP
    - Implementasi UI
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 2](changelog/sprint-2.md) - (24/11/2021 - 30/11/2021)** 
+   - Implementasi Gameplay (OOP + UI)
+   - Implementasi Menu 
+   - Implementasi Reset Button & Main 
    
-- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 3](changelog/sprint-3.md) - (01/12/2021 - 07/12/2021)** 
+   - Implementasi Error Handling
+   - Implementasi Challenge
+   - Finishing
 
 ## Running The App
 
