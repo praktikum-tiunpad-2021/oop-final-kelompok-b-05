@@ -1,12 +1,12 @@
 # Sprint Planning 
-| dd/mm/yyyy
+| 23/11/2021
 
 ### Team (Insert your name)
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| NPM           | Name                   |
+| ------------- |------------------------|
+| 140810200004  | Aulia Rahmanita        |
+| 140810200014  | Nawang Ilmi Adzani     |
+| 140810200058  | Amariel Danendra Dagna |
 
 ## Sprint Backlog Keseluruhan 
 | ID  | Title/Desc | Asignee | 
