@@ -17,8 +17,9 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | Preparing the x | Jane Doe | DONE |
-| 1.2 | Make the x | John Doe | FAILED |
+| 1.1 | Inisiasi Project    | Aulia,Nawang,Ola | DONE    |
+| 1.2 | Implementasi OOP    | Aulia,Nawang,Ola | PROCESS |
+| 1.3 | Implementasi UI     | Aulia,Nawang,Ola | PROCESS |
 
 ## Retrospective 
 
