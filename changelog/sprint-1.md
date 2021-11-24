@@ -11,14 +11,14 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 3           | 1             |
+| 3           | 2            |
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
 | 1.1 | Inisiasi Project    | Aulia,Nawang,Ola | DONE    |
-| 1.2 | Implementasi OOP    | Aulia,Nawang,Ola | UNDONE|
+| 1.2 | Implementasi OOP    | Aulia,Nawang,Ola | DONE|
 | 1.3 | Implementasi UI     | Aulia,Nawang,Ola | UNDONE |
 
 ## Retrospective 
