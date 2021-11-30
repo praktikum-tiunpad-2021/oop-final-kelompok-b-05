@@ -14,12 +14,12 @@
 | 1.1 | Inisiasi Project                  | Aulia,Nawang,Ola | 
 | 1.2 | Implementasi OOP                  | Aulia,Nawang,Ola | 
 | 1.3 | Implementasi UI                   | Aulia,Nawang,Ola |
-| 2.1 | Implementasi Gameplay (OOP + UI)  | Aulia,Nawang,Ola |
-| 2.2 | Implementasi Menu                 | Aulia,Nawang,Ola | 
-| 2.3 | Implementasi Reset Button & Main  | Aulia,Nawang,Ola |
-| 3.1 | Implementasi Error Handling       | Aulia,Nawang,Ola |
-| 3.2 | Implementasi Challenge            | Aulia,Nawang,Ola | 
-| 3.3 | Finishing                         | Aulia,Nawang,Ola |
+| 2.1 | Implementasi Gameplay (OOP + UI)  | Aulia,Ola |
+| 2.2 | Implementasi Menu                 | Nawang | 
+| 2.3 | Implementasi Reset Button & Main  | Ola |
+| 3.1 | Implementasi Error Handling       | Aulia |
+| 3.2 | Implementasi Challenge            | Ola | 
+| 3.3 | Finishing                         | Nawang |
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc                        | Asignee          | 
