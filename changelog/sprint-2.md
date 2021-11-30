@@ -26,7 +26,7 @@
 
 ## Retrospective
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Rancangan UI baru terbuat pada sprint 2 karena pada Sprint 1 kami belum ada gambaran untuk UInya.
 
 ## Next Sprint Backlog (Sprint 3)
 
