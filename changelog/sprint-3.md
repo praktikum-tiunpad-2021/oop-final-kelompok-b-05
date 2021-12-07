@@ -11,17 +11,17 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 2             | 3             |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Implementasi Error Handling | Aulia,Nawang,Ola | NOT DONE |
-| 3.2 | Implementasi Challenge  | Aulia,Nawang,Ola |NOT DONE |
+| 3.1 | Implementasi Error Handling | Aulia,Nawang,Ola | DONE |
+| 3.2 | Implementasi Challenge  | Aulia,Nawang,Ola | DONE |
 | 3.3 | Finishing  | Aulia,Nawang,Ola | NOT DONE |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin dianggap terlalu sedikit dan mepet sehingga diperlukan adanya penyesuaian tugas.
 
