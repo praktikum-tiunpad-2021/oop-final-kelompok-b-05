@@ -39,10 +39,21 @@ TO;DO with steps
 
 ## Classes Used
 
-TO;DO
+1. **MainMenu** - `MainMenu.java`
+   - Menu awal berisi dua pilihan, yaitu PLAY atau EXIT
+      
+2. **TicTacToe** - `TicTacToe.java`
+   - Berisi logika-logika yang digunakan dalam game TicTacToe
+   
 
-UML image here
+![](UML.png)
 
 ## Notable Assumption and Design App Details
 
-TO;DO
+- Pemain mengisi kotak permainan berukuran 3 x 3, dimana pemain X akan memulai permainan terlebih dahulu
+- Pemain dinyatakan menang jika berhasil membentuk 1 garis dengan huruf/bentuk yang sama, baik berupa garis horizontal, vertikal, maupun diagonal.
+- Kemenangan ditandai dengan mengubah warna background kotak/grid yang berhasil membentuk sebuah garis dan akan muncul notifikasi kemenangan. Setelah itu kotak permainan akan otomatis ter-reset/terbersihkan.
+- Jika kotak permainan sudah terisi penuh dan tidak ada satupun garis yang terbentuk, maka pemain dapat menekan tombol Reset secara manual untuk membersikan kotak permainan.
+- Terdapat Papan Score Kemenangan baik dari Pemain X maupun Pemain O.
+- Terdapat Tombol Menu untuk kembali ke Main Menu dan Tombol Exit untuk mengakhiri dan keluar dari permainan.
+
