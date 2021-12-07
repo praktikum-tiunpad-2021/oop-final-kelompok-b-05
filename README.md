@@ -46,7 +46,7 @@ TO;DO with steps
    - Berisi logika-logika yang digunakan dalam game TicTacToe
    
 
-![](UML.png)
+![]()
 
 ## Notable Assumption and Design App Details
 
