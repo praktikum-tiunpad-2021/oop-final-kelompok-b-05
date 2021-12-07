@@ -35,7 +35,9 @@ Tic-tac-toe adalah permainan kertas dan pensil untuk dua pemain, X dan O, yang b
 
 ## Running The App
 
-TO;DO with steps
+- Clone repository lalu buka melalui VSCode
+- Buka terminal lalu ketikan `./gradlew run`
+
 
 ## Classes Used
 
@@ -46,7 +48,7 @@ TO;DO with steps
    - Berisi logika-logika yang digunakan dalam game TicTacToe
    
 
-![]()
+![](UML1.png)
 
 ## Notable Assumption and Design App Details
 
